@@ -1,4 +1,4 @@
-Omnenomnom in Conjuction with DanteDoesThings
+Omnenomnom in Conjuction with DantesDoesThings
 
 Class: 440 Washington Univeristy in St. Louis
 
