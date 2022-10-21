@@ -1,5 +1,7 @@
 Omnenomnom in Conjuction with DanteDoesThings
+
 Class: 440 Washington Univeristy in St. Louis
+
 Citation names: Erica Marquez and Michael Baramidze
 
 This code reads and searches for target segments within a FASTA gene and/or Protien sequence by single gene or by a stored target gene libary. 
